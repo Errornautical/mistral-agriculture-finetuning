@@ -1,4 +1,3 @@
-# mistral-agriculture-finetuning
 # Mistral Fine-Tuning for Indian Agriculture Dataset
 
 This repository contains the code and resources for fine-tuning the open-source **Mistral** large language model using an Indian agriculture dataset sourced from [Kaggle](https://www.kaggle.com). The project aims to adapt the capabilities of Mistral to address tasks related to the agriculture domain in the Indian context.
