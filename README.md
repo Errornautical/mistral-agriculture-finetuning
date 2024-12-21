@@ -41,5 +41,5 @@ To address this issue:
 
 ---
 
-This issue is under investigation,contribution and your help is highly appreciated in resolving this issue. Feel free to S=submit a pull request with a fix or workaround and
+This issue is under investigation,contribution and your help is highly appreciated in resolving this issue. Feel free to submit a pull request with a fix or workaround and
 share resources or experiences related to this error. Updates will be provided as the problem is resolved.
